@@ -1,8 +1,8 @@
-- 🖖 Hi, I’m @jose-izquierdo
-- 👀 I’m interested in football, music, StarWars, Tech & Trek. 
+- 🖖 Hi, I’m @jose-izquierdo. I'm currently working as **💻 senior backend developer 💻** with Ruby on Rails.
+- 👀 I’m interested in football, music, starwars, and all the tech universe 🪐. 
 - 🌱 I’m currently learning Elixir, Golang, and AWS. 
 - 💞️ I’m looking to collaborate on open-source projects. 
-- 📫 How to reach me: [jose.izquierdo.n@gmail.com](mailto:jose.izquierdo.n@gmail.com)
+- 📫 How to reach me: [jose.izquierdo.n@gmail.com](mailto:jose.izquierdo.n@gmail.com) 📩
 
 <!---
 jose-izquierdo/jose-izquierdo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
